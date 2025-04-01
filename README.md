@@ -15,6 +15,6 @@ Senior Software Engineer. Outdoor Enthusiast. Organizer and Planner. Mom.
 <code><a href="https://github.com/pmclaren19?tab=repositories&q=&type=&language=react&sort="><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a></code>
 
 <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=pmclaren19&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=false&show=reviews&rank_icon=github" alt="Peri's github stats" /> 
-<!--<img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmclaren19&layout=compact&theme=blueberry&hide_border=false" /> -->
+<img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmclaren19&layout=compact&theme=blueberry&hide_border=false" />
 
 <cite>Credit: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)</cite>
